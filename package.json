@@ -1,0 +1,24 @@
+{
+  "name": "@singularitylabs/react",
+  "version": "1.0.0",
+  "description": "react components for AI/symantic web",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SingularityLabs-ai/react.git"
+  },
+  "keywords": [
+    "ai",
+    "ai-components",
+    "ai-react"
+  ],
+  "author": "Singularity Labs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SingularityLabs-ai/react/issues"
+  },
+  "homepage": "https://github.com/SingularityLabs-ai/react#readme"
+}
